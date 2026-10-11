@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Abrik-Ai
+/src/backend/database.py      @Abrik-Ai
+/src/backend/routers/auth.py  @Abrik-Ai
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Abrik-Ai
